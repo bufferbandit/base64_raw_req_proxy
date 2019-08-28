@@ -113,6 +113,3 @@ function proxy(from_address){
         })
     })
 }
-
-proxy("http://localhost/static_request_emulator.php")
-
